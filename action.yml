@@ -1,0 +1,5 @@
+name: 'Vulnerable Dependency Action'
+description: 'A custom action with a vulnerable dependency'
+runs:
+  using: 'node12'
+  main: 'index.js'
